@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
         image: "50%.jpg"
       },
       {
-        title: "Couples retreat",
+        title: "Couples Retreat",
         description: "Buy one get one free on select items. Don't miss out!",
         image: "Buyonegetone.jpg"
       },

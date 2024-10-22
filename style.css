@@ -501,3 +501,49 @@ body {
   .offer button:hover {
     background-color: orange;
   }
+  
+
+
+  #booking-form {
+    margin-bottom: 20px;
+  }
+  
+  #booking-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #booking-form label {
+    margin-top: 10px;
+  }
+  
+  #gallery {
+    margin-top: 20px;
+  }
+  
+  .gallery-images {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .gallery-images img {
+    width: calc(33.333% - 10px);
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #services {
+    margin-top: 20px;
+  }
+  
+  #services ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #services li {
+    background-color: #f4f4f4;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+  }
